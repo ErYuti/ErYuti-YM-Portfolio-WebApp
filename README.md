@@ -1,12 +1,78 @@
-# React + Vite
+# Yuti Meher | Developer Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with **React**, **Vite**, and **TailwindCSS**, showcasing my projects, resume, skills, and contact information. The site is fully responsive and features dark mode, animated sections, and a live contact form powered by EmailJS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Visit Portfolio](https://your-username.github.io/your-repo-name/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> Make sure to replace this link with your actual GitHub Pages URL.
+
+---
+
+## 🛠️ Built With
+
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 💌 EmailJS (for contact form)
+- ☁️ GitHub Pages (deployment)
+
+---
+
+## 📁 Folder Structure
+
+src/
+├── assets/ # Images, videos, and icons
+├── components/ # Header, Footer, Sections
+├── data/ # Project and skill data
+├── App.jsx # Root component
+└── main.jsx # Vite entry point
+
+---
+
+## ✨ Features
+
+- 💡 Light/Dark mode toggle
+- 🎨 Theme color selector (emerald, sky, violet, etc.)
+- 🧩 Modular components
+- 📱 Fully responsive
+- 🔒 Environment variables for EmailJS
+- 📩 Working contact form with validation
+- 📦 Easy to deploy to GitHub Pages
+
+---
+
+## 🚀 Deploy to GitHub Pages
+
+1. Update your `vite.config.js`:
+
+   ```js
+   base: '/your-repo-name/',
+Build and deploy:
+
+npm run build
+npx vite-gh-pages
+Enable GitHub Pages under Settings > Pages > gh-pages branch
+
+📬 Contact
+📧 Email: yutimeher@gmail.com
+
+📱 Phone: +91 8208375264
+
+🌍 Location: Mumbai, India
+
+🌐 LinkedIn
+
+💻 GitHub
+
+a
+### ✅ Customize It:
+
+Replace:
+- `your-username` / `your-repo-name`
+- Email/Phone/Links
+- Add screenshots under `/public/` or `/assets/`
+---
