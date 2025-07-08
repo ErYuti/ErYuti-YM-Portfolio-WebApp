@@ -27,7 +27,7 @@ const Header = ({ darkMode, setDarkMode, themeColor, setThemeColor }) => {
     >
       <div className="max-w-7xl mx-auto px-8 py-4 flex items-center justify-between">
         <h1
-          className="text-4xl font-bold mr-2 transition-transform duration-300 hover:scale-90 font-serif"
+          className="text-2xl sm:text-3xl md:text-4xl font-bold transition-transform duration-300 hover:scale-90 font-serif"
           style={{ color: themeColor }}
         >
           YutImeher
