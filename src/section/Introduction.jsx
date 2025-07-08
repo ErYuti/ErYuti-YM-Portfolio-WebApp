@@ -24,15 +24,15 @@ const Introduction = ({ darkMode, themeColor }) => {
           <TypeAnimation
             sequence={[
               "Software Web Developer",
-              3000,
+              2000,
               "Software Front-End Developer",
-              3000,
+              2000,
               "Software UI/UX Developer",
-              3000,
+              2000,
               "Software Full Stack Developer",
-              3000,
+              2000,
               "Software WordPress Developer",
-              3000,
+              2000,
             ]}
             wrapper="span"
             speed={50}
