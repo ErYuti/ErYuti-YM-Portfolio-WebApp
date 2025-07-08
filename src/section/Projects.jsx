@@ -84,7 +84,7 @@ const Projects = ({ darkMode, themeColor }) => {
         <p className="text-gray-500 text-justify">
         I’ve built a variety of mini projects using HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap. These projects helped me strengthen my frontend skills through hands-on experience, focusing on responsive design, user interaction, and clean UI components. Each project reflects my ability to translate ideas into functional and visually engaging interfaces.
         </p>
-        <div className="grid gap-4 grid-cols-2 md:grid-cols-3 text-justify">
+        <div className=""grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 text-justify"">
             <MiniProjects themeColor={themeColor}/>  
         </div>
 
