@@ -94,7 +94,7 @@ const Projects = ({ darkMode, themeColor }) => {
         <p className="text-gray-500 text-justify">
         A collection of dynamic websites and responsive interfaces developed using WordPress. These projects showcase my experience with custom themes, plugins, content management, and modern design tailored for real-world business needs across industries like manufacturing, non-profit, and real estate.
         </p>
-        <div className="grid gap-4 grid-cols-2 md:grid-cols-2 text-justify">
+        <div className="grid gap-4 grid-cols-1 md:grid-cols-2 text-justify">
                 <div
                   className="bg-zinc-800 border border-gray-700 rounded-lg overflow-hidden shadow hover:shadow-lg transition-all duration-300">
                   <video
